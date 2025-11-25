@@ -18,4 +18,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=JummyJoeJackson&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JummyJoeJackson&icon=0&color=12)](https://visitcount.itsvg.in)
