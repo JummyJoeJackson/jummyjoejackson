@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🏫 I'm currently a Math student at the University of Waterloo.
-- 🔭 I’m currently working on a X-mas Song Lyrics Generator
+- 🔭 I’m currently working on model that predicts the winner of Canada vs. Italy in the World Cup.
 - 📊 I'm looking to break into Data Science.
 - 🌱I'm currently learning foundational Data Science frameworks such as PyTorch, NumPy, etc.
 
