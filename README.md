@@ -12,5 +12,5 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=JummyJoeJackson&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JummyJoeJackson&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![Profile views](https://komarev.com/ghpvc/?username=jummyjoejackson&label=Profile%20views&color=1f6feb&style=flat)
 ---
