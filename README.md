@@ -1,8 +1,5 @@
 # 💫 About Me:
-- 🏫 I'm currently a Math student at the University of Waterloo.
-- 🔭 I’m currently working on model that predicts the winner of Canada vs. Italy in the World Cup.
-- 📊 I'm looking to break into Data Science.
-- 🌱I'm currently learning foundational Data Science frameworks such as PyTorch, NumPy, etc.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=FFAA65&vCenter=true&width=435&lines=mathematics+%40+uwaterloo;swe+%2B+data+science)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dgonza-math) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:d23gonza@uwaterloo.ca) 
