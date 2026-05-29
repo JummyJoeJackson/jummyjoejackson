@@ -1,5 +1,5 @@
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=FFAA65&vCenter=true&width=435&lines=mathematics+%40+uwaterloo;swe+%2B+data+science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2500&pause=1000&color=F79A44&width=435&lines=data+science+%40+uwaterloo;ai+%2B+swe)](https://git.io/typing-svg)
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dgonza-math) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:d23gonza@uwaterloo.ca) 
